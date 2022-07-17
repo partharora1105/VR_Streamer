@@ -1,5 +1,5 @@
 <h1>VR Streamer</h1>
-A Virtual Reality Application for streaming videos designed for WalkThru VR for the Elderly
+A Virtual Reality Application for streaming videos designed for WalkThru VR for the Elderly.
 <h2>Download</h2>
 <ul>
 	<li>Due to the large file size, this code can be downloaded <a href="https://drive.google.com/drive/folders/1ayM4j7tXttuqgFSCiCcq8on77mNAZHbu?usp=sharing">here</a> </li>
@@ -17,3 +17,7 @@ A Virtual Reality Application for streaming videos designed for WalkThru VR for 
 	<li>Click on Build and Run</li>
 </ul>
 <h2>Media</h2>
+<p align="center">
+  <img src="/github/1.gif">
+  <br>Demo Video
+</p>
